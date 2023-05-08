@@ -59,7 +59,7 @@ function HomePage() {
         <footer className="flex-grow max-w-xs mx-auto text-center border-t border-gray-300 pt-2 pb-4 text-black">
           <p>
             &copy; 2023 WePre&#x74;&#x65;dToBeProgrmmrs. All rit&#x73;
-            r&#x65;s&#x65;rved.
+            r&#x65;v&#x65;sved.
           </p>
         </footer>
       </div>
